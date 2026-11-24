@@ -1,6 +1,6 @@
-# NEXORA Website
+# Meshrelay Website
 
-A responsive, static product landing page for NEXORA, an experimental Android-first offline mesh messaging application.
+A responsive, static product landing page for Meshrelay, an experimental Android-first offline mesh messaging application.
 
 ## Local preview
 
@@ -18,11 +18,11 @@ Import this repository into Vercel. No build command or framework preset is requ
 
 ## Android download
 
-The primary download CTA currently links to the NEXORA GitHub Releases page:
-https://github.com/DeadPoet404/NEXORA/releases
+The primary download CTA currently links to the Meshrelay GitHub Releases page:
+https://github.com/DeadPoet404/Meshrelay/releases
 
 Once an APK is published, you can either keep the Releases page link or change the button in `index.html` to the direct asset URL.
 
 ## Product accuracy
 
-This page describes capabilities reflected in the NEXORA source repository. It explicitly identifies the project as experimental and does not claim end-to-end encryption or guaranteed emergency delivery.
+This page describes capabilities reflected in the Meshrelay source repository. It explicitly identifies the project as experimental and does not claim end-to-end encryption or guaranteed emergency delivery.
